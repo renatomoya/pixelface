@@ -1,0 +1,53 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "renatomoya",
+    "longName": "Pixel Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_image.png",
+                "menuIcon": true,
+                "name": "MENU_IMAGE",
+                "type": "png"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/SFPixelate-Bold.ttf",
+                "name": "FONT_SF_PIXELATE_BOLD_14",
+                "type": "font"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/SFPixelate-Bold.ttf",
+                "name": "FONT_SF_PIXELATE_BOLD_23",
+                "type": "font"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/SFPixelate-Bold.ttf",
+                "name": "FONT_SF_PIXELATE_BOLD_30",
+                "type": "font"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "PxFace",
+    "uuid": "3cc89ea0-aa20-4fc6-8b1e-db3fb122d8e2",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
